@@ -54,7 +54,7 @@ class PopularFoodDetail extends StatelessWidget {
               right: Dimensions.width20,
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                children: [quan
+                children: [
                   GestureDetector(
                       onTap: () {
                         if(page =="cartpage"){
